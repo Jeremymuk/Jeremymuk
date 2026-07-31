@@ -41,15 +41,7 @@ Passionné par le développement d'applications web, mobiles et les infrastructu
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chermann-KING&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chermann-KING&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Me contacter
 
