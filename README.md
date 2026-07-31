@@ -45,5 +45,5 @@ Passionné par le développement d'applications web, mobiles et les infrastructu
 
 ### 📫 Me contacter
 
-- 📧 Email : tonemail@example.com
+- 📧 Email : jeremiemukeba20@gmail.com
 - 🌍 Libreville, Gabon
