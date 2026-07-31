@@ -1,5 +1,11 @@
 
 # 👋 Salut, je suis Jeremie Mukeba
+* 💻 Développement Web
+* 📱 Développement Mobile
+* 🎨 UI Design
+* ✨ UX Design
+* 🖌️ Design Graphique
+* ⚡ Développement Full Stack
 
 ## 🚀 Développeur Full Stack & Mobile
 
